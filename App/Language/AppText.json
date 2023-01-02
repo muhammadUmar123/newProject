@@ -1,0 +1,16 @@
+{
+    "Intro_screens":[
+        {
+            "heading":"Skincare & Makeup",
+            "text":"Dapatken rekomendasi skincare and makeup sesuai jenis kulit anda"
+        },
+        {
+            "heading":"Analyze Your skin",
+            "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+        },
+        {
+            "heading":"Try On Makeup",
+            "text":"Praesent ac dui elit. Donec in nulla ornare, egestas metus id, vulputate quam."
+        }
+    ]
+}
